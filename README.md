@@ -1,6 +1,8 @@
 # Software-Engineering-Assignment-2
 軟體工程導論期末作業
 
+備註：jack2737為同學的帳號，但程式碼等為親自撰寫，描述與操作也皆為本人遠程遙控其完成
+
 ==========我是分隔線==========
 
 DataBase.py：
